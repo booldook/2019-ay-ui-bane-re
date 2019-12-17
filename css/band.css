@@ -1,0 +1,26 @@
+.header {
+	background-color: #000;
+	color: white;
+}
+.navi-wrap {
+	border: 1px solid yellowgreen;
+	float: left;
+}
+.navi-wrap > div {
+	float: left;
+	padding: 12px 16px;
+	cursor: pointer;
+}
+.navi-wrap > div:hover {
+	background-color: #ccc;
+	color: #000;
+}
+.search-wrap {
+	border: 1px solid yellowgreen;
+	float: right;
+	padding: 12px 16px;
+	cursor: pointer;
+}
+.search-wrap:hover {
+	background-color: tomato;
+}

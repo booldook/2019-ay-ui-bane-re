@@ -1,0 +1,23 @@
+.wrapper {
+	background-color: #000;
+}
+.wrap {
+	width: 100%;
+	max-width: 1000px;
+	border: 10px solid red;
+	margin: 0 auto;
+	color: #000;
+	padding: 20px;
+	background-color: cornsilk;
+}
+
+.wrap2 {
+	max-width: 1000px;
+	margin: 50px auto;
+	border: 10px solid red;
+}
+.wrap2 > div {
+	width: 33.3333%;
+	border: 5px solid blue;
+	float: left;
+}

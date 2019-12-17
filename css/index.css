@@ -1,0 +1,21 @@
+.vio {
+	background-color: blueviolet;
+	color: white;
+}
+
+.green {
+	background-color: cadetblue;
+	color: #fff;
+	padding: 16px;
+	margin: 16px 0;
+	width: 500px;
+	border: 10px solid red;
+}
+
+.s36 {
+	font-size: 36px;
+}
+
+.s24 {
+	font-size: 24px;
+} 
